@@ -35,5 +35,5 @@ A simple Python-based implementation of the classic Snake-Water-Gun game (simila
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/ekaagraguptaa/snake-water-gun-game.git
+   git clone https://github.com/ekaagragupta/snake-water-gun-game.git
    cd snake-water-gun-game
